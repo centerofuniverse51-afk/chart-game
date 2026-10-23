@@ -1,0 +1,4 @@
+flask
+finance-datareader
+pandas
+numpy
